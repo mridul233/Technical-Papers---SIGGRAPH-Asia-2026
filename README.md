@@ -9,7 +9,7 @@ This project presents a depth-free dynamic scene reconstruction framework using 
 - Real-time neural rendering
 
 ## Files
-- `Hoisain_Video.ipynb` : Main training notebook
+- `Hossain.ipynb` : Main training notebook
 
 ## Requirements
 - Python
